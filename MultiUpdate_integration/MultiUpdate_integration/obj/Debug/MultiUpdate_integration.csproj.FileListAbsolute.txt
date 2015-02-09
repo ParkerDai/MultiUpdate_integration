@@ -1,0 +1,34 @@
+C:\Documents and Settings\Administrator\桌面\UDPClientBroadcast\UDPClientBroadcast\bin\Debug\MultiUpdate_integration_v1.0.exe
+C:\Documents and Settings\Administrator\桌面\UDPClientBroadcast\UDPClientBroadcast\bin\Debug\MultiUpdate_integration_v1.0.pdb
+C:\Documents and Settings\Administrator\桌面\UDPClientBroadcast\UDPClientBroadcast\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\UDPClientBroadcast\UDPClientBroadcast\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\UDPClientBroadcast\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\UDPClientBroadcast\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\UDPClientBroadcast\UDPClientBroadcast\obj\Debug\MultiUpdate_integration_v1.0.exe
+C:\Documents and Settings\Administrator\桌面\UDPClientBroadcast\UDPClientBroadcast\obj\Debug\MultiUpdate_integration_v1.0.pdb
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration_大量更新整合程式\UDPClientBroadcast\obj\Debug\MultiUpdate_integration_v1.0.exe
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration_大量更新整合程式\UDPClientBroadcast\obj\Debug\MultiUpdate_integration_v1.0.pdb
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration_大量更新整合程式\UDPClientBroadcast\bin\Debug\MultiUpdate_integration_v1.0.exe
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration_大量更新整合程式\UDPClientBroadcast\bin\Debug\MultiUpdate_integration_v1.0.pdb
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration_大量更新整合程式\UDPClientBroadcast\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration_大量更新整合程式\UDPClientBroadcast\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration_大量更新整合程式\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration_大量更新整合程式\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.csproj.GenerateResource.Cache
+D:\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\MultiUpdate_integration_v1.0.exe
+D:\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\MultiUpdate_integration_v1.0.pdb
+D:\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\ResolveAssemblyReference.cache
+D:\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.Properties.Resources.resources
+D:\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.csproj.GenerateResource.Cache
+D:\MultiUpdate_integration\UDPClientBroadcast\bin\Debug\MultiUpdate_integration_v1.0.exe
+D:\MultiUpdate_integration\UDPClientBroadcast\bin\Debug\MultiUpdate_integration_v1.0.pdb
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\UDPClientBroadcast\bin\Debug\MultiUpdate_integration.exe
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\UDPClientBroadcast\bin\Debug\MultiUpdate_integration.pdb
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.exe
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\UDPClientBroadcast\obj\Debug\MultiUpdate_integration.pdb
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\MultiUpdate_integration\obj\Debug\MultiUpdate_integration.exe
+C:\Documents and Settings\Administrator\桌面\MultiUpdate_integration\MultiUpdate_integration\obj\Debug\MultiUpdate_integration.pdb
